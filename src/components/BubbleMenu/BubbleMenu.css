@@ -216,7 +216,7 @@
   }
 
   .bubble-menu-items .pill-link:hover {
-    transform: rotate(var(--item-rot)) scale(1.2);
+    transform: rotate(var(--item-rot)) scale(1.1);
     background: var(--hover-bg);
     color: var(--hover-color);
   }
